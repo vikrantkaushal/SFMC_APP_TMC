@@ -1,2 +1,2 @@
 # SFMC_APP_TMC
-This Repository for SMFC PUSH APP
+This Repository we are using for SFMC Push App
